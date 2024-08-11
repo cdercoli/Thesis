@@ -40,6 +40,8 @@ from the CNSP workshop;
 	- dataStim.mat: original file stim from the downloaded dataset; 
 	- dataStimBase.mat: file stim with some additional features (i.e.: envelope derivative);
 	- dataStimComplete.mat: file stim including features considering dissimilarity scores (obtained after running the diss2stim.m code). 
+	
+	Note that for the_old_man_and_the_sea folder, in dataCND no subject_data will be found because due to file size, the upload on GitHub was not possible. Therefore, a readme file including the link to the OneDrive download of the respective subject data folder has been included and the download should be performed before running the analysis. Apologies for the inconvenience. 
 
 - folder "results": including the results that have been obtained.
 ----------------------------------------------------------
